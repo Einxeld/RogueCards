@@ -1,2 +1,2 @@
-# Grafit-RogueCards
+# RogueCards
  Тестовое задание (карточный рогалик)
